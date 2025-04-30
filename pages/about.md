@@ -12,12 +12,11 @@ credits: true
 
 ## About The Sound of Oakland
 
-The Sound of Oakland is an archive dedicated to the 
 
- site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+The Sound of Oakland is an archive dedicated to the Oakland music scene. Oakland’s music history is long, colorful, and poorly documented; The Sound of Oakland is designed to be a living archive of Oakland’s musical past. Anyone with media connected to Oakland music – photos, videos, websites, posters, merch, and more – is invited to contribute to the archive.
 
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
+Built with CollectionBuilder, the archive is controlled by a spreadsheet that can be accessed [here](https://docs.google.com/spreadsheets/d/1Bi-wQMxVhWHJyoOyFWztZJYMI55ObIvq2C5wKbN4BGI/edit?gid=1096870409#gid=1096870409), and a Github repository that can be found [here](https://github.com/BennDiagram/HavenArchive). Instructions on how to contribute to the repository can be found [here](https://docs.google.com/document/d/1LDIIzA5FEKo32JubeiV3qCbZ542Yf9KQwP-RlQuhj2k/edit?usp=sharing).
+
 
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
