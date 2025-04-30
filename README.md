@@ -1,3 +1,8 @@
+# The Sound of Oakland Archive Instructions
+Instructions for how to contribute to the archive can be found in the linked Google Doc
+https://docs.google.com/document/d/1LDIIzA5FEKo32JubeiV3qCbZ542Yf9KQwP-RlQuhj2k/edit?usp=sharing
+
+
 # CollectionBuilder-Sheets
 
 CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
